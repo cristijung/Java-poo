@@ -1,4 +1,4 @@
-package parteTres.collections.arraylist;
+package collections.arraylist.codes;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package parteTres.collections.arraylist;
+package collections.arraylist.codes;
 
 public class Magazine implements LibraryItem {
     private String title;
